@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+void MyFunc(void)
+{
+    printf("MyFunc");
+}
+
 void foo()
 {
     printf("FOO");
