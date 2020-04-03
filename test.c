@@ -2,7 +2,7 @@
 
 void MyFunc(void)
 {
-    printf("Ave Maria!\n");
+    printf("Inshaalah!\n");
 }
 
 void foo()
